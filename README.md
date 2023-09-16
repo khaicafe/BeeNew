@@ -1,0 +1,2 @@
+# BeeNew
+Create beego golang
